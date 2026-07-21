@@ -1,4 +1,4 @@
-EUSE ROLE accountadmin;
+USE ROLE accountadmin;
 
 
 /*--
